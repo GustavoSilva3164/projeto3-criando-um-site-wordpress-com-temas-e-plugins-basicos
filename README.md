@@ -22,7 +22,7 @@ O desenvolvimento foi algo muito demorado e que demandou muita paciencia e anali
 - Dificuldade no alinhamento de itens dentro das grades especialmente ao tentar mudar a posição dos itens do conteiners que possua vez acabava por da problemas na organização
 - Ajustes contínuos dos espaçamentos margens e posicionamentos para que ficasse fiel ao site, fez com que muitas vezes fosse preciso desfazer o item ou o container.  
 - A fonte utilizada no projeto não corresponde exatamente à fonte do site original, pois não foi possível encontrá-la. Além disso, alguns frames precisaram ser substituídos por imagens, em razão das dificuldades encontradas na organização de cada elemento dentro dos containers.
-
+- limitações do elementor na sua versão gratuita que impossibilitava recursos tanto para ajudar no desenvolvimento como no layout.
 ##  Dificuldades Encontradas
 
 - Desenvolver a interface apresentou-se como uma tarefa bastante desafiadora, especialmente devido às dificuldades relacionadas à centralização dos elementos, que frequentemente se desajustavam durante o processo.
