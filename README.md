@@ -31,4 +31,5 @@ O desenvolvimento foi algo muito demorado e que demandou muita paciencia e anali
 
 ##  Soluções Aplicadas
 
-- 
+- adição de imagens
+- substituição de grades por containers e vice versa
